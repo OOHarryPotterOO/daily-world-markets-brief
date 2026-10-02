@@ -1,0 +1,107 @@
+{
+  "date": "2 October 2026",
+  "cutoff": "07:00, 2 October 2026",
+  "note": "Freshness-first edition. Primarily 1 October reporting, with explicitly dated 30 September context where necessary. Mainland A shares and Hong Kong markets were closed for National Day on 1 October; no fabricated holiday-session prices. Fewer than the nominal 16 slots have been filled because distinct fresh verified local stories were insufficient. Publication is not the same as a live market feed.",
+  "sections": {
+    "world": [
+      {
+        "headline": "Iran prepares a wider response to possible new U.S. strikes while keeping talks open",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/world/middle-east/iran-readies-harder-retaliation-if-attacked-diplomacy-faces-long-odds-2026-10-01/",
+        "summary": "Reuters reported, citing Iranian officials and a person familiar with internal discussions, that commanders are reviewing options for a wider response if major U.S. strikes resume. Officials described simultaneous indirect diplomatic contacts via Qatar, but a resolution remains uncertain. The key new information is the reported scale of contingency planning, not the existence of the already-reported peace proposal. No final decision to retaliate was reported.",
+        "implication": "An escalation could disrupt tanker movements and insurance, pushing energy import costs and inflation higher even before physical oil output changes. Separate verified actions from contingency reports when assessing sovereign and corporate exposure.",
+        "label": "WHAT CHANGED SINCE YESTERDAY — new Reuters reporting of broader contingency plans."
+      },
+      {
+        "headline": "Russia says diesel will not return to world markets until sanctions are lifted",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/business/energy/putin-says-russia-wont-supply-diesel-global-markets-until-sanctions-are-lifted-2026-10-01/",
+        "summary": "President Vladimir Putin said Russian diesel would not reach global markets while sanctions remain, and Moscow extended a separate producer export ban through October. Ukraine's continuing attacks on Russian refineries add to tight supplies already affected by conflict in the Middle East. The remarks deepen the fuel-supply dimension of the conflict; they are not evidence of a new peace initiative.",
+        "implication": "Diesel has broad importance in freight, agriculture and industrial logistics. Supply constraints can pass into core costs and borrower margins even if crude prices stabilize."
+      },
+      {
+        "headline": "U.S. trade representative urges G20 changes to tariff rules and challenges China over industrial policy",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/world/china/greer-urges-g20-back-trump-tariff-agenda-takes-aim-china-2026-10-01/",
+        "summary": "At G20 trade discussions, U.S. Trade Representative Jamieson Greer pressed participating economies to revisit the prevailing tariff framework, raise concerns about industrial overcapacity, and enforce trading standards more aggressively. China disputes U.S. allegations that its industrial policies create unfair excess capacity and argues that protectionism is being used against it. The remarks reveal continuing structural disagreements even after the September leaders' summit.",
+        "implication": "For trade finance, consider tariff classification, end-market exposure, pricing power, supplier diversification and documentary compliance. Distinguish diplomatic language from enacted tariffs."
+      }
+    ],
+    "global": [
+      {
+        "headline": "U.S. 10-year yield touches 5.34% before retreating; Wall Street closes slightly higher",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-01/",
+        "summary": "The benchmark 10-year Treasury yield briefly reached about 5.34%, a level not seen since 2002, before buyers emerged. Reuters reported the S&P 500 gained roughly 0.19% by the close while European markets weakened and the euro came under pressure. The simultaneous resilience in U.S. growth stocks and drawdown in bonds reflects tension between AI-linked earnings expectations and an increasingly expensive discount-rate environment. These are Thursday's U.S. session figures, available by the 07:00 Beijing reporting cutoff.",
+        "implication": "DCM funding cost decomposes into Treasury or swap benchmark plus issuer spread: even a flat spread delivers a more expensive new-issue coupon when risk-free yields climb. Long-duration valuations, refinancing stress and banks' fixed-rate securities books are exposed. One day of stock gains does not establish that equity investors are immune to persistent yield increases.",
+        "label": "WHAT CHANGED SINCE YESTERDAY — fresh 5.34% intraday peak and Thursday closing market data."
+      },
+      {
+        "headline": "Oil rises more than $4 as China restricts fuel exports and Middle East risks mount",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/business/energy/oil-prices-barely-changed-investors-assess-us-iran-peace-talks-gulf-exports-2026-10-01/",
+        "summary": "Brent's December front-month contract settled at $102.31 per barrel, up $4.28, while WTI settled at $92.87, up $2.45. The rally followed reporting on China's restrictions on refined-product exports beyond Hong Kong and Macau and renewed discussion of U.S. military deployments. Saudi export flows have shown signs of recovery, but a crude flow improvement does not by itself replace scarce diesel and jet-fuel supply.",
+        "implication": "Energy shocks can raise headline CPI and input costs while depressing consumption, complicating central-bank reactions. Corporate lenders should stress airlines, logistics, petrochemicals and inventory-intensive borrowers for pass-through limits, margin pressure and revolving-credit drawdowns. Separate crude availability from refinery capacity and specific fuel products.",
+        "label": "WHAT CHANGED SINCE YESTERDAY — 1 October fuel-export policy report and U.S. oil settlement."
+      },
+      {
+        "headline": "UK banking shares slide during gilt rout, heightening funding and fiscal concerns",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/business/finance/uk-banks-tumble-gilt-yields-hit-highest-sine-1998-budget-jitters-mount-2026-10-01/",
+        "summary": "British lenders sold off as longer-dated gilt yields reached levels last seen in 1998. Reuters reported sharp declines for major banks including NatWest, HSBC, Barclays and Lloyds while fiscal-policy speculation and inflation pressures unsettled investors. The sector reaction shows why higher yields do not automatically improve a bank's profitability: asset repricing is accompanied by more expensive deposits, borrower risk and bond portfolio valuation effects.",
+        "implication": "Bank equity is sensitive to multiple directions of rate change: NIM benefits may be overwhelmed by deposit beta, mark-to-market losses, weaker borrower repayment capacity and tougher wholesale funding. For CB and credit, assess duration gap, CRE exposure, collateral and refinancing pipelines instead of simply describing banks as beneficiaries of high rates."
+      }
+    ],
+    "mainland": [
+      {
+        "headline": "China suspends most October refined-fuel exports outside Hong Kong and Macau",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/business/energy/view-chinese-refiners-suspend-october-fuel-exports-sources-say-2026-10-01/",
+        "summary": "Four people briefed on the matter told Reuters Chinese refiners had suspended overseas shipments of key oil products except to Hong Kong and Macau until further notice. The affected markets include diesel, jet fuel and gasoline. Observers interpreted the move as a domestic energy-security priority at a time of tight international refined-product supply. The duration and ultimate implementation were not established, and demand during the holiday will matter for domestic inventories.",
+        "implication": "In commodity finance, examine inventory availability, location and delivery terms—not just crude oil prices. Importers dependent on Chinese products may need alternate suppliers, higher working-capital lines and trade-credit protection. Refiners elsewhere could benefit from wider product cracks, but product-level exposure differs.",
+        "label": "NEW — 1 October refinery-export restriction reporting."
+      },
+      {
+        "headline": "G20 trade talks highlight unresolved China–U.S. industrial and tariff disagreements",
+        "source": "Reuters",
+        "published": "1 October 2026",
+        "url": "https://www.reuters.com/world/china/greer-urges-g20-back-trump-tariff-agenda-takes-aim-china-2026-10-01/",
+        "summary": "The U.S. trade representative reiterated concerns about Chinese subsidies and industrial capacity and pressed other economies to reconsider trade rules. Beijing rejects the allegations and disputes the U.S. approach. This is a new G20 forum intervention, not a new tariff announcement or a new outcome of the earlier Washington leaders' summit.",
+        "implication": "Chinese exporters' credit risk depends on market mix, tariffs paid by importers, ability to reprice, and location of manufacturing. For DCM and corporate lending, model tariff scenarios and customs compliance rather than treat diplomatic remarks as immediate changes to cash flow.",
+        "label": "NEW G20 forum remarks; same underlying policy disagreement as before."
+      }
+    ],
+    "hongkong": [
+      {
+        "headline": "New World Development ends airport mall arrangement as it manages debt and liquidity",
+        "source": "Reuters",
+        "published": "30 September 2026",
+        "url": "https://www.reuters.com/world/asia-pacific/new-world-development-ends-airport-mall-agreement-with-23-billion-charges-2026-09-30/",
+        "summary": "New World Development terminated its airport-linked shopping-mall agreement and disclosed substantial related charges, alongside reporting on further credit support. The developer has been trying to ease balance-sheet pressure in a difficult local property market. The 30 September article is carried as explicitly dated recent context; it is not presented as a new 1 October transaction.",
+        "implication": "This is a classic distressed-corporate banking issue: reducing future commitments may improve liquidity while a one-off accounting charge affects reported capital. Distinguish noncash charges from near-term debt maturity, covenant headroom, cash interest and asset realizations. For lenders, group support and collateral valuation matter.",
+        "label": "BACKGROUND / WATCHLIST — Published 30 September; not fresh on 1 October."
+      },
+      {
+        "headline": "Hong Kong stock market closed for National Day; Stock Connect holiday interruption",
+        "source": "HKEX official trading calendar",
+        "published": "2026 calendar (reference)",
+        "url": "https://www.hkex.com.hk/News/HKEX-Calendar?acttype=%7BF4C40F45-DA56-41A7-A740-86B26DA5349%7D&currenttab=search-result&datefrom=2026-10-01&dateto=2027-03-30&defaultdate=2026-10-01&order=asc&sc_lang=en",
+        "summary": "The Hong Kong exchange was closed on 1 October for National Day, while Stock Connect services face holiday interruptions around the mainland's Golden Week. There is therefore no 1 October regular-session Hang Seng closing move to report. The exchange-calendar information is operational context, not a new corporate announcement.",
+        "implication": "Holiday-adjusted market access matters for trade execution, hedging, ETF premiums, liquidity and settlement. Do not infer a price move on a day when the cash market was closed. Southbound flow figures during closure are not evidence of an investor-demand shock.",
+        "label": "BACKGROUND / MARKET CALENDAR — not a fresh news story."
+      }
+    ]
+  },
+  "takeaways": {
+    "Global Macro": "The U.S. 10-year Treasury briefly hit 5.34% on 1 October, sharpening DCM and valuation pressure even as U.S. equities ended marginally higher.",
+    "Mainland China": "China's October fuel-export restrictions put domestic energy security ahead of overseas product sales, with implications for Asian diesel margins and importers' working capital.",
+    "Hong Kong": "Hong Kong was closed on 1 October; watch New World Development's debt-restructuring pressures and avoid quoting holiday-session market performance."
+  }
+}
