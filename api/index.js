@@ -1,0 +1,2 @@
+const {redis,send}=require('./_lib');
+module.exports=async(req,res)=>{if(req.method!=='GET')return send(res,405,{error:'Method not allowed'});try{const value=await redis('GET','markets:index');return send(res,200,value?JSON.parse(value):{latest:null,dates:[],status:'not_published'});}catch(e){return send(res,503,{latest:null,dates:[],error:'Live database not configured or temporarily unavailable'});}};
