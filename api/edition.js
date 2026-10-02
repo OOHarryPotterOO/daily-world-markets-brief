@@ -1,0 +1,2 @@
+const {redis,send}=require('./_lib');
+module.exports=async(req,res)=>{if(req.method!=='GET')return send(res,405,{error:'Method not allowed'});try{const date=String(req.query.date||'');if(!/^20\d{2}-\d{2}-\d{2}$/.test(date))return send(res,400,{error:'Use YYYY-MM-DD date'});const value=await redis('GET','markets:edition:'+date);return value?send(res,200,JSON.parse(value)):send(res,404,{error:'Not published',date});}catch(e){return send(res,503,{error:'Live database unavailable'});}};
